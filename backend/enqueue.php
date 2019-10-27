@@ -10,12 +10,6 @@ function webwise_base_enqueue_styles() {
 		null
 	);
 
-	/*wp_enqueue_style(
-		'bootstrap',
-		get_stylesheet_directory_uri() . '/css/bootstrap.min.css',
-		array(),
-		null
-	);*/
 }
 
 
